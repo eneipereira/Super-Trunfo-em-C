@@ -16,7 +16,7 @@ Este projeto tem como objetivo desenvolver, em linguagem **C**, o jogo Super Tru
 
 Cadastro das cartas do jogo Super Trunfo de Países, com entrada e exibição das informações das cidades.
 
-### Nível Aventureiro
+### Nível Aventureiro (Implementado)
 
 Implementação do cálculo e exibição da densidade populacional e do PIB per capita para cada cidade.
 
