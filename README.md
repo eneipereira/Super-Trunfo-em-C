@@ -50,9 +50,13 @@ O programa solicitará a entrada dos dados para duas cartas e, em seguida, exibi
 
 ## Estrutura do projeto
 
-super_trunfo.c: Código-fonte do programa em C.
+- `super_trunfo.c`: Código-fonte do programa em C.
 
-.gitignore: Arquivo para ignorar arquivos compilados e temporários.
+- `.gitignore`: Arquivo para ignorar arquivos compilados e temporários.
+
+- `README.md`: Documento com a descrição do projeto, instruções de uso e informações complementares.
+
+- `LICENSE`: Arquivo contendo a licença de uso do projeto (MIT License).
 
 ## Autor
 
