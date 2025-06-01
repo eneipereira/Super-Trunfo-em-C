@@ -1,0 +1,22 @@
+# Compilados
+*.o
+*.out
+*.exe
+
+# Arquivo padrão de saída do GCC
+a.out
+
+# Arquivos de backup
+*~
+
+# Diretórios ocultos (ex: .vscode, .idea)
+.vscode/
+.idea/
+
+# Logs, dumps e arquivos temporários
+*.log
+*.tmp
+*.swp
+
+#Arquivo Personalizado
+super_trunfo
