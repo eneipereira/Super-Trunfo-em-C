@@ -12,7 +12,7 @@ Este projeto tem como objetivo desenvolver, em linguagem **C**, o jogo Super Tru
 
 ## Níveis do projeto
 
-### Nível Novato
+### Nível Novato (Implementado)
 
 Cadastro das cartas do jogo Super Trunfo de Países, com entrada e exibição das informações das cidades.
 
