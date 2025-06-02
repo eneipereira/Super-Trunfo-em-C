@@ -20,7 +20,7 @@ Cadastro das cartas do jogo Super Trunfo de Países, com entrada e exibição da
 
 Implementação do cálculo e exibição da densidade populacional e do PIB per capita para cada cidade.
 
-### Nível Mestre
+### Nível Mestre (Implementado)
 
 Comparação entre duas cartas, definindo vencedores por atributo e introduzindo o conceito de "Super Poder".
 
