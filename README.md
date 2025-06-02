@@ -1,4 +1,4 @@
-# Trabalho: Super Trunfo em C
+# Trabalho: Super Trunfo em C - Cartas
 
 Repositório do trabalho da disciplina **Introdução à Programação de Computadores**, do curso de **Engenharia de Software** da **UNESA (Universidade Estácio de Sá)**.
 
