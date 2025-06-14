@@ -27,7 +27,7 @@ Este projeto tem como objetivo desenvolver, em linguagem **C**, o jogo Super Tru
 
 ### Etapa 2 – Lógica e Interatividade do Jogo
 
-- **Nível Novato**  
+- **Nível Novato (Implementado)**  
   Comparação entre duas cartas com base em um único atributo definido no código, utilizando estruturas de decisão `if` e `if-else`.
 
 - **Nível Aventureiro**  
