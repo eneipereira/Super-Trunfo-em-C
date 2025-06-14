@@ -30,7 +30,7 @@ Este projeto tem como objetivo desenvolver, em linguagem **C**, o jogo Super Tru
 - **Nível Novato (Implementado)**  
   Comparação entre duas cartas com base em um único atributo definido no código, utilizando estruturas de decisão `if` e `if-else`.
 
-- **Nível Aventureiro**  
+- **Nível Aventureiro (Implementado)**  
   Inclusão de menu interativo com `switch`, permitindo ao jogador escolher o atributo de comparação. Uso de `if-else` aninhado para lógica condicional mais refinada.
 
 - **Nível Mestre**  
