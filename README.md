@@ -10,19 +10,31 @@ Este projeto tem como objetivo desenvolver, em linguagem **C**, o jogo Super Tru
 
 ---
 
-## Níveis do projeto
+## Níveis do Projeto
 
-### Nível Novato (Implementado)
+### Etapa 1 – Cadastro e Análise das Cartas
 
-Cadastro das cartas do jogo Super Trunfo de Países, com entrada e exibição das informações das cidades.
+- **Nível Novato (Implementado)**  
+  Cadastro das cartas do jogo Super Trunfo de Cidades, com entrada e exibição das informações básicas: estado, código, cidade, população, área, PIB e pontos turísticos.
 
-### Nível Aventureiro (Implementado)
+- **Nível Aventureiro (Implementado)**  
+  Cálculo e exibição da densidade populacional e do PIB per capita para cada cidade, com formatação adequada dos resultados.
 
-Implementação do cálculo e exibição da densidade populacional e do PIB per capita para cada cidade.
+- **Nível Mestre (Implementado)**  
+  Comparação entre duas cartas, definindo vencedores por atributo e introduzindo o conceito de "Super Poder", que soma atributos numéricos considerando conversões e critérios especiais.
 
-### Nível Mestre (Implementado)
+---
 
-Comparação entre duas cartas, definindo vencedores por atributo e introduzindo o conceito de "Super Poder".
+### Etapa 2 – Lógica e Interatividade do Jogo
+
+- **Nível Novato**  
+  Comparação entre duas cartas com base em um único atributo definido no código, utilizando estruturas de decisão `if` e `if-else`.
+
+- **Nível Aventureiro**  
+  Inclusão de menu interativo com `switch`, permitindo ao jogador escolher o atributo de comparação. Uso de `if-else` aninhado para lógica condicional mais refinada.
+
+- **Nível Mestre**  
+  Comparação com múltiplos atributos escolhidos pelo jogador, menus dinâmicos, uso de `switch` e do operador ternário, resultando em lógica avançada e código mais eficiente.
 
 ---
 
