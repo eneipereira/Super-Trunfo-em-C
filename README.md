@@ -33,7 +33,7 @@ Este projeto tem como objetivo desenvolver, em linguagem **C**, o jogo Super Tru
 - **Nível Aventureiro (Implementado)**  
   Inclusão de menu interativo com `switch`, permitindo ao jogador escolher o atributo de comparação. Uso de `if-else` aninhado para lógica condicional mais refinada.
 
-- **Nível Mestre**  
+- **Nível Mestre (Implementado)**  
   Comparação com múltiplos atributos escolhidos pelo jogador, menus dinâmicos, uso de `switch` e do operador ternário, resultando em lógica avançada e código mais eficiente.
 
 ---
