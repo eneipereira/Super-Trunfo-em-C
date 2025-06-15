@@ -1,12 +1,12 @@
 # Trabalho: Super Trunfo em C - Cartas
 
-Repositório do trabalho da disciplina **Introdução à Programação de Computadores**, do curso de **Engenharia de Software** da **UNESA (Universidade Estácio de Sá)**.
+Repositório dos trabalhos 1 e 2 da disciplina **Introdução à Programação de Computadores**, do curso de **Engenharia de Software** da **UNESA (Universidade Estácio de Sá)**.
 
 ---
 
 ## Descrição
 
-Este projeto tem como objetivo desenvolver, em linguagem **C**, o jogo Super Trunfo de Países, dividido em três níveis de complexidade. A ideia é construir progressivamente funcionalidades que envolvem cadastro, cálculo de atributos e comparação entre cartas que representam cidades.
+Este projeto tem como objetivo desenvolver, em linguagem **C**, o jogo Super Trunfo de Países, dividido em duas etapas, com três níveis de complexidade cada. A ideia é construir progressivamente funcionalidades que envolvem cadastro, cálculo de atributos e comparação entre cartas que representam cidades.
 
 ---
 
